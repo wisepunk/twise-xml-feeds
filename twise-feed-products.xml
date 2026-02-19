@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<twise-feed version="1.0">
+  <documents type="product">
+
+    <document>
+      <id>pp-001</id>
+      <title>Nordic Oak Sideboard</title>
+      <description>Solid oak sideboard with four drawers and two cabinet doors. Hand-finished in natural oil. Dimensions 180×45×85 cm. FSC-certified wood.</description>
+      <url>https://example.com/shop/nordic-oak-sideboard-pp001</url>
+      <venue>Scandi Living</venue>
+      <address>Hovedgaden 12</address>
+      <city>Copenhagen</city>
+      <date_start>2025-01-15T00:00:00</date_start>
+      <date_end>2025-12-31T23:59:59</date_end>
+      <media>
+        <image>https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=640</image>
+      </media>
+    </document>
+
+    <document>
+      <id>pp-002</id>
+      <title>Ceramic Table Lamp – Terra</title>
+      <description>Hand-thrown ceramic table lamp in terracotta with linen shade. E27 socket, max 40W. Height 42 cm. Made in Portugal.</description>
+      <url>https://example.com/shop/ceramic-lamp-terra-pp002</url>
+      <venue>Luma Home</venue>
+      <address>Industrivej 7</address>
+      <city>Aarhus</city>
+      <date_start>2025-03-01T00:00:00</date_start>
+      <date_end>2025-11-30T23:59:59</date_end>
+      <media>
+        <image>https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?w=640</image>
+      </media>
+    </document>
+
+    <document>
+      <id>pp-003</id>
+      <title>Organic Cotton Throw – Grey Mist</title>
+      <description>Large woven throw in 100% GOTS-certified organic cotton. Soft grey heather. 140×200 cm. Machine washable 30°C.</description>
+      <url>https://example.com/shop/cotton-throw-grey-mist-pp003</url>
+      <venue>Textil & Co</venue>
+      <address>Væverstræde 3</address>
+      <city>Odense</city>
+      <date_start>2025-02-10T00:00:00</date_start>
+      <date_end>2025-12-31T23:59:59</date_end>
+      <media>
+        <image>https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=640</image>
+      </media>
+    </document>
+
+    <document>
+      <id>pp-004</id>
+      <title>Stainless Steel Pour-Over Set</title>
+      <description>Barista-style pour-over set: kettle, dripper, and carafe in 18/8 stainless steel. Dishwasher-safe. 1.2 L capacity.</description>
+      <url>https://example.com/shop/pour-over-set-pp004</url>
+      <venue>Brew Supply</venue>
+      <address>Kaffegade 22</address>
+      <city>Horsens</city>
+      <date_start>2025-01-01T00:00:00</date_start>
+      <date_end>2025-12-31T23:59:59</date_end>
+      <media>
+        <image>https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=640</image>
+      </media>
+    </document>
+
+    <document>
+      <id>pp-005</id>
+      <title>Leather Crossbody Bag – Forest</title>
+      <description>Vegetable-tanned leather crossbody bag in forest green. Adjustable strap, inner zip pocket. 28×24×8 cm. Lined.</description>
+      <url>https://example.com/shop/leather-bag-forest-pp005</url>
+      <venue>Nordic Leather</venue>
+      <address>Læderstræde 5</address>
+      <city>Roskilde</city>
+      <date_start>2025-04-01T00:00:00</date_start>
+      <date_end>2025-10-31T23:59:59</date_end>
+      <media>
+        <image>https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=640</image>
+      </media>
+    </document>
+
+  </documents>
+</twise-feed>
