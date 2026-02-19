@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<twise-feed version="1.0">
+  <documents type="event">
+
+    <document>
+      <id>vv-001</id>
+      <title>Halloween hos Iskunsten i Thyborøn</title>
+      <description>Oplev Halloween på en helt ny måde – i et iskoldt univers fyldt med uhyggelige skulpturer og magiske detaljer! Hele oktober forvandler Iskunsten sig til et sted, hvor kulden møder kulsort uhygge, og skulpturerne fortæller historier, der kryber under huden.</description>
+      <url>https://www.visitvesterhavet.dk/vesterhavet/vesterhavsferie/halloween-hos-iskunsten-i-thyboroen-gdk1153180</url>
+      <venue>Iskunsten</venue>
+      <address>Jernbanegade 1A</address>
+      <city>Thyborøn</city>
+      <date_start>2025-10-01T11:00:00</date_start>
+      <date_end>2025-10-31T17:00:00</date_end>
+      <media>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ice_sculpture_in_Troms%C3%B8.jpg/640px-Ice_sculpture_in_Troms%C3%B8.jpg</image>
+      </media>
+    </document>
+
+    <document>
+      <id>vv-002</id>
+      <title>Kunstnerbolig ART 56</title>
+      <description>Oplev Kunstnerbolig ART 56 – et unikt udstillingssted i Hvide Sande, hvor lokale og internationale kunstnere arbejder og udstiller deres værker.</description>
+      <url>https://www.visitvesterhavet.dk/vesterhavet/vesterhavsferie/kunstnerbolig-art-56-gdk1089157</url>
+      <venue>ART 56</venue>
+      <address>Parallelvej 56</address>
+      <city>Hvide Sande</city>
+      <date_start>2025-01-01T10:00:00</date_start>
+      <date_end>2025-12-31T17:00:00</date_end>
+      <media>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Statens_Museum_for_Kunst_2013.jpg/640px-Statens_Museum_for_Kunst_2013.jpg</image>
+      </media>
+    </document>
+
+    <document>
+      <id>vv-003</id>
+      <title>Rundvisning hos Stauning Whisky – tysk guide</title>
+      <description>Kom med på en spændende rundvisning på Stauning Whisky med tysk guide og oplev håndværket bag den prisvindende danske whisky.</description>
+      <url>https://www.visitvesterhavet.dk/vesterhavet/vesterhavsferie/rundvisning-hos-stauning-whisky-tysk-guide-gdk1142689</url>
+      <venue>Stauning Whisky</venue>
+      <address>Stauningvej 38</address>
+      <city>Skjern</city>
+      <date_start>2025-04-01T13:00:00</date_start>
+      <date_end>2025-10-31T15:00:00</date_end>
+      <media>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Whisky_bottles_at_a_bar.jpg/640px-Whisky_bottles_at_a_bar.jpg</image>
+      </media>
+    </document>
+
+    <document>
+      <id>vv-004</id>
+      <title>Udstilling – Laura Windfeld Høeberg: Farvet af naturen</title>
+      <description>En sanselig udstilling med værker af Laura Windfeld Høeberg, hvor naturens farver og former bliver fortolket i stof og tekstil.</description>
+      <url>https://www.visitvesterhavet.dk/vesterhavet/vesterhavsferie/udstilling-laura-windfeld-hoeeberg-farvet-af-naturen-gdk1153020</url>
+      <venue>Vestjyllands Kunstpavillon</venue>
+      <address>Kongevejen 41B</address>
+      <city>Videbæk</city>
+      <date_start>2025-09-01T10:00:00</date_start>
+      <date_end>2025-11-30T17:00:00</date_end>
+      <media>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Detail_of_embroidered_Chinese_silk.jpg/640px-Detail_of_embroidered_Chinese_silk.jpg</image>
+      </media>
+    </document>
+
+    <document>
+      <id>vv-005</id>
+      <title>Dyrehaven Engholm – Morgenfodring med Conny</title>
+      <description>Kom tæt på dyrene, når Conny inviterer til morgenfodring i Dyrehaven Engholm. En hyggelig oplevelse for hele familien.</description>
+      <url>https://www.visitvesterhavet.dk/vesterhavet/vesterhavsferie/dyrehaven-engholm-morgenfordring-med-conny-gdk1142596</url>
+      <venue>Dyrehaven Engholm</venue>
+      <address>Engholmvej 3</address>
+      <city>Skjern</city>
+      <date_start>2025-05-01T09:00:00</date_start>
+      <date_end>2025-09-30T10:00:00</date_end>
+      <media>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/European_red_deer_at_Wildpark_Kalden.jpg/640px-European_red_deer_at_Wildpark_Kalden.jpg</image>
+      </media>
+    </document>
+
+  </documents>
+</twise-feed>
